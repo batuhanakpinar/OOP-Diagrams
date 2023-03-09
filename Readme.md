@@ -1,4 +1,4 @@
-DIAGRAMS
+# Diagrams
 
 1- University Managment System UML Diagram
 
