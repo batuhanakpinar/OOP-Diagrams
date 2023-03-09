@@ -1,5 +1,4 @@
-Diagrams
-PATİKA.DEV HOMEWORKS
+DIAGRAMS
 
 1- University Managment System UML Diagram
 
